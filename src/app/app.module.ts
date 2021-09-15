@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
+import {MatCardModule} from '@angular/material/card';
 @NgModule({
   declarations: [
     AppComponent
@@ -13,7 +14,7 @@ import { MatInputModule } from '@angular/material/input';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule,MatFormFieldModule,MatInputModule
+    BrowserAnimationsModule,MatFormFieldModule,MatInputModule,MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]

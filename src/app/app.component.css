@@ -1,0 +1,24 @@
+.card{
+    height: 170%;
+    width: 20%;
+    padding-left: 20%;
+} 
+
+ .div{
+    padding-left: 20%;
+}
+
+
+/* #sect1 {  
+    height: 650 px;  
+    color: #fff;background-image:url("http://cdn26.us1.fansshare.com/photo/backgrounddesigns/marvellous-cool-black-and-white-background-about-remodel-wallpaper-hd-design-with-cool-black-and-white-background-background-designs-1906911226.jpg");  
+    background-size:100%;  
+    background-size:cover;  
+}   */
+
+.padd{
+    /* padding-top: 20%; */
+    background-size:100%;  
+    background-size:cover; 
+    height: 100%;  
+}
